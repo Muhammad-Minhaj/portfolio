@@ -1,5 +1,19 @@
 {
+  "id": 1,
   "name": "E-Commerce Website",
   "description": "E-commerce is the activity of electronically buying or selling of products on online services or over the Internet.",
-  "video": "../assets/videos/1.mp4"
+  "thumbnail": "",
+  "video": "",
+  "startToEndDate": "",
+  "liveLink": "",
+  "sourceLink": "",
+  "usedTechnologies": [
+    "JavaScript",
+    "ReactJs",
+    "NextJs",
+    "Material-UI",
+    "HTML5",
+    "CSS3"
+  ],
+  "type": "website"
 }
