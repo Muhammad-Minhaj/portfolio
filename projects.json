@@ -15,7 +15,7 @@
       "HTML5",
       "CSS3"
     ],
-    "type": "website"
+    "type": 2
   },
   {
     "id": 2,
@@ -33,7 +33,7 @@
       "HTML5",
       "CSS3"
     ],
-    "type": "website"
+    "type": 1
   },
   {
     "id": 3,
@@ -51,7 +51,7 @@
       "HTML5",
       "CSS3"
     ],
-    "type": "website"
+    "type": 5
   },
   {
     "id": 4,
@@ -69,7 +69,7 @@
       "HTML5",
       "CSS3"
     ],
-    "type": "website"
+    "type": 4
   },
   {
     "id": 5,
@@ -87,6 +87,6 @@
       "HTML5",
       "CSS3"
     ],
-    "type": "website"
+    "type": 3
   }
 ]
