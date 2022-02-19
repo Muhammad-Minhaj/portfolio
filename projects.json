@@ -1,19 +1,21 @@
 [
   {
     "id": 1,
-    "name": "E-Commerce Website",
-    "description": "E-commerce is the activity of electronically buying or selling of products on online services or over the Internet.",
+    "name": "Laptop Optimize (E-Commerce Website)",
+    "description": "Laptop optimize is an eCommerce website developed by MERN stack technologies.",
     "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/1.png",
-    "startToEndDate": "02-02-2022 - Present",
-    "liveLink": "https://muhammadminhaj.github.io",
-    "sourceLink": "https://github.com/MuhammadMinhaj",
+    "startToEndDate": "05-11-2021 - 10-11-2021",
+    "liveLink": "https://minhaj-laptopoptimize.web.app",
+    "sourceLink": "https://github.com/MuhammadMinhaj/LaptopOptimize-Shop",
     "usedTechnologies": [
       "JavaScript",
+      "NodeJs",
+      "ExpressJs",
+      "MongoDB",
       "ReactJs",
-      "NextJs",
       "Material-UI",
-      "HTML5",
-      "CSS3"
+      "Firebase",
+      "More..."
     ],
     "type": 2
   },
