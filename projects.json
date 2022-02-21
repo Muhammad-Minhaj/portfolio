@@ -21,21 +21,23 @@
   },
   {
     "id": 2,
-    "name": "Blog Website",
-    "description": "A blog (a truncation of weblog)[1] is a discussion or informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed in reverse chronological order, so that the most recent post appears first, at the top of the web page.",
+    "name": "Portfolio Website",
+    "description": "This is a simple portfolio website developed with ReactJs and NextJs and many more technologies have been used to develop this website. Thank you",
     "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/2.jpg",
-    "startToEndDate": "02-02-2022 - Present",
-    "liveLink": "https://muhammadminhaj.github.io",
-    "sourceLink": "https://github.com/MuhammadMinhaj",
+    "startToEndDate": "23-12-2020 - 01-02-2021",
+    "liveLink": "https://muhammadminhaj.github.io/portfolio-website",
+    "sourceLink": "https://github.com/MuhammadMinhaj/portfolio-website",
     "usedTechnologies": [
       "JavaScript",
       "ReactJs",
-      "NextJs",
       "Material-UI",
-      "HTML5",
-      "CSS3"
+      "NextJs",
+      "Redux",
+      "React-scroll",
+      "Axios",
+      "More..."
     ],
-    "type": 1
+    "type": 2
   },
   {
     "id": 3,
