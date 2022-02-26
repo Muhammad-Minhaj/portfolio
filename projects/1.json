@@ -1,20 +1,17 @@
 {
   "id": 1,
-  "name": "Laptop Optimize (E-Commerce Website)",
-  "description": "Laptop optimize is an eCommerce website developed by MERN stack technologies.",
+  "name": "Informative Coding",
+  "description": "Informative Coding is a non-profit organization that helps to learn technology in Bangla. The purpose of which is to motivate people to learn technology by simply introducing them to technology.",
   "video": "https://github.com/Muhammad-Minhaj/portfolio/blob/main/assets/videos/1.mp4?raw=true",
   "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/1.png",
-  "startToEndDate": "05-11-2021 - 10-11-2021",
-  "liveLink": "https://minhaj-laptopoptimize.web.app",
-  "sourceLink": "https://github.com/MuhammadMinhaj/LaptopOptimize-Shop",
+  "startToEndDate": "05-11-2019 - present",
+  "liveLink": "https://informativecoding.github.io",
+  "sourceLink": "https://github.com/InformativeCoding",
   "usedTechnologies": [
     "JavaScript",
-    "NodeJs",
-    "ExpressJs",
-    "MongoDB",
     "ReactJs",
+    "NextJs",
     "Material-UI",
-    "Firebase",
     "More..."
   ],
   "type": 2

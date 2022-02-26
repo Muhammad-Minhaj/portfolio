@@ -1,9 +1,27 @@
 [
   {
     "id": 1,
+    "name": "Informative Coding",
+    "description": "Informative Coding is a non-profit organization that helps to learn technology in Bangla. The purpose of which is to motivate people to learn technology by simply introducing them to technology.",
+    "video": "https://github.com/Muhammad-Minhaj/portfolio/blob/main/assets/videos/1.mp4?raw=true",
+    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/1.png",
+    "startToEndDate": "05-11-2019 - present",
+    "liveLink": "https://informativecoding.github.io",
+    "sourceLink": "https://github.com/InformativeCoding",
+    "usedTechnologies": [
+      "JavaScript",
+      "ReactJs",
+      "NextJs",
+      "Material-UI",
+      "More..."
+    ],
+    "type": 2
+  },
+  {
+    "id": 2,
     "name": "Laptop Optimize (E-Commerce Website)",
     "description": "Laptop optimize is an eCommerce website developed by MERN stack technologies.",
-    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/1.png",
+    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/2.png",
     "startToEndDate": "05-11-2021 - 10-11-2021",
     "liveLink": "https://minhaj-laptopoptimize.web.app",
     "sourceLink": "https://github.com/MuhammadMinhaj/LaptopOptimize-Shop",
@@ -20,10 +38,10 @@
     "type": 2
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Portfolio Website",
     "description": "This is a simple portfolio website developed with ReactJs and NextJs and many more technologies have been used to develop this website. Thank you",
-    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/2.png",
+    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/3.png",
     "startToEndDate": "23-12-2020 - 01-02-2021",
     "liveLink": "https://muhammadminhaj.github.io/portfolio-website",
     "sourceLink": "https://github.com/MuhammadMinhaj/portfolio-website",
@@ -40,10 +58,10 @@
     "type": 2
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "E-App",
     "description": "E-commerce (electronic commerce) is the activity of electronically buying or selling of products on online services or over the Internet. E-commerce draws ...",
-    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/3.png",
+    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/4.png",
     "startToEndDate": "02-02-2022 - Present",
     "liveLink": "https://muhammadminhaj.github.io",
     "sourceLink": "https://github.com/MuhammadMinhaj",
@@ -58,10 +76,10 @@
     "type": 5
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "E-Learning Website",
     "description": "eLearning, or electronic learning, is the delivery of learning and training through digital resources.",
-    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/4.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/5.jpg",
     "startToEndDate": "02-02-2022 - Present",
     "liveLink": "https://muhammadminhaj.github.io",
     "sourceLink": "https://github.com/MuhammadMinhaj",
@@ -76,10 +94,10 @@
     "type": 4
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "A E-Commerce Marketplace",
     "description": "An online marketplace is a type of e-commerce website where product or service information is provided by multiple third parties.",
-    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/5.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/6.jpg",
     "startToEndDate": "02-02-2022 - Present",
     "liveLink": "https://muhammadminhaj.github.io",
     "sourceLink": "https://github.com/MuhammadMinhaj",
