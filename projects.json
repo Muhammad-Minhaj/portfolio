@@ -22,7 +22,7 @@
     "name": "Laptop Optimize (E-Commerce Website)",
     "description": "Laptop optimize is an eCommerce website developed by MERN stack technologies.",
     "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/2.png",
-    "startToEndDate": "05-11-2021 - 10-11-2021",
+    "startToEndDate": "05-11-2021 - 08-11-2021",
     "liveLink": "https://minhaj-laptopoptimize.web.app",
     "sourceLink": "https://github.com/MuhammadMinhaj/LaptopOptimize-Shop",
     "usedTechnologies": [
@@ -39,6 +39,27 @@
   },
   {
     "id": 3,
+    "name": "Laptop Optimize (Admin Panel)",
+    "description": "This is an admin panel for managing the 'Laptop optimize' website that is developed by MERN stack technologies. Login credentials - email: admin@admin.com password: admin ",
+    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/3.png",
+    "startToEndDate": "08-11-2021 - 10-11-2021",
+    "liveLink": "https://minhaj-laptopoptimize.web.app/admin/login",
+    "sourceLink": "https://github.com/MuhammadMinhaj/LaptopOptimize-Shop",
+    "usedTechnologies": [
+      "JavaScript",
+      "NodeJs",
+      "ExpressJs",
+      "MongoDB",
+      "ReactJs",
+      "Material-UI",
+      "Firebase",
+      "More..."
+    ],
+    "type": 2
+  },
+
+  {
+    "id": 4,
     "name": "Portfolio Website",
     "description": "This is a simple portfolio website developed with ReactJs and NextJs and many more technologies have been used to develop this website. Thank you",
     "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/3.png",
@@ -58,7 +79,7 @@
     "type": 2
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "E-App",
     "description": "E-commerce (electronic commerce) is the activity of electronically buying or selling of products on online services or over the Internet. E-commerce draws ...",
     "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/4.png",
@@ -76,7 +97,7 @@
     "type": 5
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "E-Learning Website",
     "description": "eLearning, or electronic learning, is the delivery of learning and training through digital resources.",
     "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/5.jpg",
@@ -94,7 +115,7 @@
     "type": 4
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "A E-Commerce Marketplace",
     "description": "An online marketplace is a type of e-commerce website where product or service information is provided by multiple third parties.",
     "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/6.jpg",
