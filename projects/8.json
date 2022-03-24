@@ -1,0 +1,20 @@
+{
+  "id": 8,
+  "name": "School Management System (Admin Panel | CMS)",
+  "description": "I've made School Management System (Website, Admin Panel, and Teacher Panel). This is a large project built by NodeJs and Ejs, as the database, I've used MongoDB and mongoose library. I spent a lot of time building this project, where I've created design templates and implemented them in coding. Full documentation and visualization of this project are coming soon. Thanks & regards! Login - Email: admin@admin.com & Password: admin",
+  "video": "https://github.com/Muhammad-Minhaj/portfolio/blob/main/assets/videos/1.mp4?raw=true",
+  "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/8.png",
+  "startToEndDate": "28-04-2020 - 11-11-2020",
+  "liveLink": "https://jasa-edu.herokuapp.com/auth/login",
+  "sourceLink": "https://github.com/MuhammadMinhaj/School-Management-System",
+  "usedTechnologies": [
+    "JavaScript",
+    "NodeJs",
+    "ExpressJs",
+    "Bootstrap",
+    "EJS",
+    "Axios",
+    "More..."
+  ],
+  "type": 2
+}
