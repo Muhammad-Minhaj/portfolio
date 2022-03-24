@@ -3,7 +3,6 @@
     "id": 1,
     "name": "Informative Coding",
     "description": "Informative Coding is a non-profit organization that helps to learn technology in Bangla. The purpose of which is to motivate people to learn technology by simply introducing them to technology.",
-    "video": "https://github.com/Muhammad-Minhaj/portfolio/blob/main/assets/videos/1.mp4?raw=true",
     "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/1.png",
     "startToEndDate": "05-11-2019 - present",
     "liveLink": "https://informativecoding.github.io",
@@ -19,9 +18,28 @@
   },
   {
     "id": 2,
+    "name": "Dr. Omar Danoun",
+    "description": "I have built this website for Dr. Omar Danoun since 14 Feb 2022. As well as I've also built a custom CMS for managing the content and navigation menu of this website. Website and CMS are built with NextJs, as the Database, I've used MySQL, and Sequalize library in CMS. Thanks & regards",
+    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/2.png",
+    "startToEndDate": "14-02-2022 - present",
+    "liveLink": "http://dromardanoun.com",
+    "sourceLink": "https://github.com/MuhammadMinhaj",
+    "usedTechnologies": [
+      "JavaScript",
+      "ReactJs",
+      "NextJs",
+      "Material-UI",
+      "MySQL",
+      "Sequalize",
+      "More..."
+    ],
+    "type": 2
+  },
+  {
+    "id": 3,
     "name": "Laptop Optimize (E-Commerce Website)",
     "description": "Laptop optimize is an eCommerce website developed by MERN stack technologies.",
-    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/2.png",
+    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/3.png",
     "startToEndDate": "05-11-2021 - 08-11-2021",
     "liveLink": "https://minhaj-laptopoptimize.web.app",
     "sourceLink": "https://github.com/MuhammadMinhaj/LaptopOptimize-Shop",
@@ -38,10 +56,10 @@
     "type": 2
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Laptop Optimize (Admin Panel)",
     "description": "This is an admin panel for managing the 'Laptop optimize' website that is developed by MERN stack technologies. Login credentials - email: admin@admin.com password: admin ",
-    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/3.png",
+    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/4.png",
     "startToEndDate": "08-11-2021 - 10-11-2021",
     "liveLink": "https://minhaj-laptopoptimize.web.app/admin/login",
     "sourceLink": "https://github.com/MuhammadMinhaj/LaptopOptimize-Shop",
@@ -59,10 +77,10 @@
   },
 
   {
-    "id": 4,
+    "id": 5,
     "name": "Portfolio Website",
     "description": "This is a simple portfolio website developed with ReactJs and NextJs and many more technologies have been used to develop this website. Thank you",
-    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/4.png",
+    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/5.png",
     "startToEndDate": "23-12-2020 - 01-02-2021",
     "liveLink": "https://muhammadminhaj.github.io/portfolio-website",
     "sourceLink": "https://github.com/MuhammadMinhaj/portfolio-website",
@@ -77,59 +95,5 @@
       "More..."
     ],
     "type": 2
-  },
-  {
-    "id": 5,
-    "name": "E-App",
-    "description": "E-commerce (electronic commerce) is the activity of electronically buying or selling of products on online services or over the Internet. E-commerce draws ...",
-    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/5.png",
-    "startToEndDate": "02-02-2022 - Present",
-    "liveLink": "https://muhammadminhaj.github.io",
-    "sourceLink": "https://github.com/MuhammadMinhaj",
-    "usedTechnologies": [
-      "JavaScript",
-      "ReactJs",
-      "NextJs",
-      "Material-UI",
-      "HTML5",
-      "CSS3"
-    ],
-    "type": 5
-  },
-  {
-    "id": 6,
-    "name": "E-Learning Website",
-    "description": "eLearning, or electronic learning, is the delivery of learning and training through digital resources.",
-    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/6.jpg",
-    "startToEndDate": "02-02-2022 - Present",
-    "liveLink": "https://muhammadminhaj.github.io",
-    "sourceLink": "https://github.com/MuhammadMinhaj",
-    "usedTechnologies": [
-      "JavaScript",
-      "ReactJs",
-      "NextJs",
-      "Material-UI",
-      "HTML5",
-      "CSS3"
-    ],
-    "type": 4
-  },
-  {
-    "id": 7,
-    "name": "A E-Commerce Marketplace",
-    "description": "An online marketplace is a type of e-commerce website where product or service information is provided by multiple third parties.",
-    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/6.jpg",
-    "startToEndDate": "02-02-2022 - Present",
-    "liveLink": "https://muhammadminhaj.github.io",
-    "sourceLink": "https://github.com/MuhammadMinhaj",
-    "usedTechnologies": [
-      "JavaScript",
-      "ReactJs",
-      "NextJs",
-      "Material-UI",
-      "HTML5",
-      "CSS3"
-    ],
-    "type": 3
   }
 ]
