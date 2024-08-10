@@ -19,20 +19,20 @@
   },
   {
     "id": 2,
-    "name": "Dr. Omar Danoun",
-    "description": "I have built this website for Dr. Omar Danoun since 14 Feb 2022. As well as I've also built a custom CMS for managing the content and navigation menu of this website. Website and CMS are built with NextJs, as the Database, I've used MySQL, and Sequalize library in CMS. Thanks & regards",
+    "name": "Dr. Omar Danoun's Blog Website",
+    "description": "A comprehensive project featuring a robust backend built with Express.js, Node.js, and Mongoose, a modern front-end using React.js and TailwindCSS, and a versatile admin panel for managing content and users. This solution ensures a seamless experience for both site visitors and administrators.",
     "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/2.png",
     "startToEndDate": "14-02-2022 - present",
     "liveLink": "http://dromardanoun.com",
     "sourceLink": "https://github.com/MuhammadMinhaj",
     "usedTechnologies": [
       "JavaScript",
-      "ReactJs",
-      "NextJs",
+      "React.js",
+      "Next.js",
       "Material-UI",
       "MySQL",
-      "Sequalize",
-      "More..."
+      "Sequelize",
+      "And More..."
     ],
     "type": 2,
     "order": 2
