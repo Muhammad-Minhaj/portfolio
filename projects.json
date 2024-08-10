@@ -30,8 +30,9 @@
       "React.js",
       "Next.js",
       "Material-UI",
-      "MySQL",
-      "Sequelize",
+      "TailwindCSS",
+      "MongoDB",
+      "Docker",
       "And More..."
     ],
     "type": 2,
@@ -56,7 +57,7 @@
       "More..."
     ],
     "type": 2,
-    "order": 3
+    "order": 4
   },
   {
     "id": 4,
@@ -77,7 +78,7 @@
       "More..."
     ],
     "type": 2,
-    "order": 4
+    "order": 5
   },
 
   {
@@ -99,7 +100,7 @@
       "More..."
     ],
     "type": 2,
-    "order": 5
+    "order": 6
   },
   {
     "id": 6,
@@ -119,7 +120,7 @@
       "More..."
     ],
     "type": 2,
-    "order": 6
+    "order": 7
   },
   {
     "id": 7,
@@ -139,7 +140,7 @@
       "More..."
     ],
     "type": 2,
-    "order": 7
+    "order": 8
   },
   {
     "id": 8,
@@ -159,6 +160,24 @@
       "More..."
     ],
     "type": 2,
-    "order": 8
+    "order": 9
+  },
+  {
+    "id": 9,
+    "name": "Dr. Omar Danoun's Online Appointment Scheduler",
+    "description": "A streamlined appointment booking platform designed for Dr. Omar Danoun. It features a user-friendly interface and integrates with Calendly for easy scheduling, ensuring efficient management of appointments and a seamless user experience.",
+    "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/9.png",
+    "startToEndDate": "01-07-2024 - 15-07-2024",
+    "liveLink": "https://appointment.dromardanoun.com",
+    "sourceLink": "https://github.com/MuhammadMinhaj",
+    "usedTechnologies": [
+      "Typescript",
+      "React.js",
+      "Next.js",
+      "TailwindCSS",
+      "And More..."
+    ],
+    "type": 2,
+    "order": 3
   }
 ]
